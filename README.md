@@ -10,7 +10,7 @@ If you order the PCB etc yourself: you only need the switch-plate for this case,
 
 It logo on the bottom is meant to be printed in one go with changing the filament, not glued in. There is no gap between these, so glueing will probably not work. Check [this instrucable](https://www.instructables.com/Poor-Mans-MMU-Multicolor-Printing-With-Single-Extr/) how to do this with only one Extruder.
 
-##Print instructions
+## Print instructions
 - Case, knob and logo can be printed in simple PLA
   - Normal amount of perimeters and infill is enough, more feels better and sturdier
   - Print the top upside down, the bottom normal side up
@@ -18,9 +18,13 @@ It logo on the bottom is meant to be printed in one go with changing the filamen
   - Print the feet with 60A TPU, so they are very soft and really help with slipping. Harder TPUs are still relatively slippy. I used Recreus
 Filaflex 60A.
 
+__[Build Guide](https://github.com/Technofrikus/Kastenwagen-Case/tree/main/BuildGuide)__ 
+
 Hardware needed:
 | Qty  | Hardware |
 | ------------- | ------------- |
 | 6x  | M2 x 4mm brass inserts for the top |
 | 6x  | M2x16 screws |
 | 3x  | ~14mm long, 1mm diameter, optical fiber made from plastic |
+| 24x  | ~20mm Gaskets, 2mm thickness EPDM, ~5mm width |
+| 1x  | 1mm drill for the light guide holes |
