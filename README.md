@@ -18,9 +18,9 @@ It logo on the bottom is meant to be printed in one go with changing the filamen
   - Print the feet with 60A TPU, so they are very soft and really help with slipping. Harder TPUs are still relatively slippy. I used Recreus
 Filaflex 60A.
 
-__[Build Guide](https://github.com/Technofrikus/Kastenwagen-Case/tree/main/BuildGuide)__ 
+## __[Build Guide](https://github.com/Technofrikus/Kastenwagen-Case/tree/main/BuildGuide)__ 
 
-Hardware needed:
+## Hardware needed:
 | Qty  | Hardware |
 | ------------- | ------------- |
 | 6x  | M2 x 4mm brass inserts for the top |
