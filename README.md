@@ -8,6 +8,8 @@ This is intended to be a drop-in replacement for the Kastenwagen PCB and Plate. 
 
 If you order the PCB etc yourself: you only need the switch-plate for this case, not the bottom plate. And no standoffs etc.
 
+Please note: you HAVE to solder the MCU flat on the PCB, otherise the cutout in the case will not align with the USB.
+
 It logo on the bottom is meant to be printed in one go with changing the filament, not glued in. There is no gap between these, so glueing will probably not work. Check [this instrucable](https://www.instructables.com/Poor-Mans-MMU-Multicolor-Printing-With-Single-Extr/) how to do this with only one Extruder.
 
 ## Print instructions
