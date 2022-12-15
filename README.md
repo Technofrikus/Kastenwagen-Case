@@ -1,8 +1,8 @@
+![DSCF7331.jpg](BuildGuide/Kastenwagen%20Build%20Guide%20b80c3be0004547f0919189ceea761d22/DSCF7331.jpg)
+
 # Kastenwagen-Case
 Printable Case for the Kastenwagen by NoPunIn10Did
 PCB and Plate available here: [Kastenwagen on Github](https://github.com/nopunin10did/kastenwagen)
-
-![DSCF7331.jpg](BuildGuide/Kastenwagen%20Build%20Guide%20b80c3be0004547f0919189ceea761d22/DSCF7331.jpg)
 
 This is intended to be a drop-in replacement for the Kastenwagen PCB and Plate. So it is not necessary to desolder anything. 
 
