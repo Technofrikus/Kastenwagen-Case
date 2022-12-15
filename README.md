@@ -4,6 +4,8 @@
 Printable Case for the Kastenwagen by NoPunIn10Did
 PCB and Plate available here: [Kastenwagen on Github](https://github.com/nopunin10did/kastenwagen)
 
+Both versions for the big and small (without Numpad) Kastenwagen are available. __Kastenwagen1840__ and __Kastenwagen48__
+
 This is intended to be a drop-in replacement for the Kastenwagen PCB and Plate. So it is not necessary to desolder anything. 
 
 If you order the PCB etc yourself: you only need the switch-plate for this case, not the bottom plate. And no standoffs etc.
