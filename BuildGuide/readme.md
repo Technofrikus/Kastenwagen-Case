@@ -30,8 +30,9 @@ The MCU *has to be* soldered **flat** on to the PCB (different PCB in the pictur
     
     ![CleanShot 2022-10-22 at 17.34.05@2x.jpg](Kastenwagen%20Build%20Guide%20b80c3be0004547f0919189ceea761d22/CleanShot_2022-10-22_at_17.34.052x.jpg)
     
-    1. Rub them a bit in glue stick. You can also use other glue, but especially **super glue leaves visible marks on the print**, so be very careful or just use glue stick. 
-    2. Push them in from the top. They have to go through the Plate onto the LED on the PCB to work properly. If you cant push them in completely, rotate them a bit so they find the hole in the Plate. 
+    1. Drill the three holes with a 1mm drill, so the light guide fits in. The holes are designed to be too small. Be careful while drilling to not make the holes bigger. Drill slowly.
+    2. Rub them a bit in glue stick. You can also use other glue, but especially **super glue leaves visible marks on the print**, so be very careful or just use glue stick. 
+    3. Push them in from the top. They have to go through the Plate onto the LED on the PCB to work properly. If you cant push them in completely, rotate them a bit so they find the hole in the Plate. 
 6. **Flash this latest Firmware** on the board so you can use all the nice Features with VIAL, like Key Overrides, TapDance and Combos.
 
 [20221010_nopunin10did_kastenwagen_vial.hex](Kastenwagen%20Build%20Guide%20b80c3be0004547f0919189ceea761d22/20221010_nopunin10did_kastenwagen_vial.hex)
