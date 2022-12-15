@@ -1,6 +1,6 @@
 # Kastenwagen Build Guide
 
-![https://media.discordapp.net/attachments/679100205513179137/1015639312710258750/DSCF7331.jpg?width=2136&height=1424](https://media.discordapp.net/attachments/679100205513179137/1015639312710258750/DSCF7331.jpg?width=2136&height=1424)
+![DSCF7331.jpg](Kastenwagen%20Build%20Guide%20b80c3be0004547f0919189ceea761d22/DSCF7331.jpg)
 
 # Dissassemble if necessary
 
